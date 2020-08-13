@@ -1,2 +1,2 @@
 # StockFinanceHelper
-Stock Finance Helper extension。
+Stock Finance Helper extension.
