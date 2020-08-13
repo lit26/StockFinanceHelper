@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Stock Finance Helper",
+  "description": "Stock Finance Helper extension!",
+  "version": "1.0",
+  "icons": {
+    "128": "stocks.png",
+    "48": "stocks.png",
+    "16": "stocks.png"
+  },
+
+  "browser_action": {
+    "default_icon": "stocks.png",
+    "default_popup": "popup.html"
+  }
+}
